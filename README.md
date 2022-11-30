@@ -10,3 +10,4 @@ The bonus script was written so that in the unlikely event that  multiple ticker
 where # is the number of tickers.
 A message box appears at the end of the main script and another at the end of bonus test.
 Note: the script does not work on alphabetical_testing.xlsx, because teh worksheet names are different
+THe conditional request in the assignment is conflicting: the image shows it only for the yearly chnage and not the percenrtage yet point are offered for teh percentage as well. I applied it to both in my script.
